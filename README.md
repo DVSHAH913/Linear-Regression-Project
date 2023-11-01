@@ -1,1 +1,2 @@
-# Linear-Regression-Project
+### Linear Regression Project
+I was assigned this case study during the course, and based on it, I developed a model for an Ecommerce company in New York City. The company aimed to determine whether to prioritize its mobile app or website for customers who attend in-store style sessions before making online clothing orders. The goal was to optimize the user experience and enhance the decision-making process between the two platforms.
